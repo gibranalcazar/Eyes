@@ -46,13 +46,12 @@
 
 ## :dart: About ##
 
-Describe your project
+This is a web application for testing mouse related events; in this case it two objects are simulating eyes and they will move according to the mouse position.
 
-## :sparkles: Features ##
+## :sparkles: Try it! ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+<a href="https://gibranalcazar.github.io/Eyes/" target="_blank">Link To Eye's App</a>
+
 
 ## :rocket: Technologies ##
 
