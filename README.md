@@ -46,7 +46,7 @@
 
 ## :dart: About ##
 
-This is a web application for testing mouse related events; in this case it two objects are simulating eyes and they will move according to the mouse position.
+This is a web application for testing mouse related events; in this case two objects are simulating eyes and they will move according to the mouse position.
 
 ## :sparkles: Try it! ##
 
