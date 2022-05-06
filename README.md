@@ -53,19 +53,17 @@ This is a web application for testing mouse related events; in this case two obj
 <a href="https://gibranalcazar.github.io/Eyes/" target="_blank">Link To Eye's App</a>
 
 
-## :rocket: Technologies ##
+## :rocket: Languages ##
 
-The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [JavaScript]
+- [HTML]
+- [CSS]
+
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) installed.
 
 ## :checkered_flag: Starting ##
 
