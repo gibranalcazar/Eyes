@@ -34,6 +34,7 @@
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="https://gibranalcazar.github.io/Eyes/">Run!</a> &#xa0; | &#xa0; 
   <a href="#rocket-Languages">Languages</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
@@ -49,7 +50,7 @@ This is a web application for testing mouse related events; in this case two obj
 
 ## :sparkles: Run web app! ##
 
-<a href="https://gibranalcazar.github.io/Eyes/" target="_blank">Link To Eye's App</a>
+<a href="https://gibranalcazar.github.io/Eyes/" target="_blank">Link To Eyes</a>
 
 
 ## :rocket: Languages ##
