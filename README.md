@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./image" alt="Eyes" />
+  <img src="./image.jpg" alt="Eyes" />
 
   &#xa0;
 
