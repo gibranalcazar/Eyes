@@ -74,18 +74,11 @@ $ git clone https://github.com/gibranalcazar/eyes
 # Access
 $ cd eyes
 
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn start
-
-# The server will initialize in the <http://localhost:3000>
 ```
 
 ## :memo: License ##
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
 
 
 Made with :heart: by <a href="https://github.com/gibranalcazar" target="_blank">Gibrán Alcázar</a>
