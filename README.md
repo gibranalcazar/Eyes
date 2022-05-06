@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Eyes" />
+  <img src="./image" alt="Eyes" />
 
   &#xa0;
 
