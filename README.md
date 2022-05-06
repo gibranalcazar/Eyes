@@ -47,7 +47,7 @@
 
 This is a web application for testing mouse related events; in this case two objects are simulating eyes and they will move according to the mouse position.
 
-## :sparkles: Try it! ##
+## :sparkles: Run web app! ##
 
 <a href="https://gibranalcazar.github.io/Eyes/" target="_blank">Link To Eye's App</a>
 
