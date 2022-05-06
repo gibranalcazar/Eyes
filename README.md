@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./image.jpg" alt="Eyes" />
+  <img src="./image.jpg" alt="Eyes" href="https://github.com/gibranalcazar" />
 
   &#xa0;
 
@@ -56,9 +56,9 @@ This is a web application for testing mouse related events; in this case two obj
 ## :rocket: Languages ##
 
 
-- [JavaScript]
-- [HTML]
-- [CSS]
+- JavaScript
+- HTML
+- CSS
 
 
 ## :white_check_mark: Requirements ##
