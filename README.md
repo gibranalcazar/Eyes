@@ -15,7 +15,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/gibranalcazar/eyes?color=56BEB8">
 
-  <!-- <img alt="License" src="https://img.shields.io/github/license/gibranalcazar/eyes?color=56BEB8"> -->
+  <img alt="License" src="https://img.shields.io/github/license/gibranalcazar/eyes?color=56BEB8">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/gibranalcazar/eyes?color=56BEB8" /> -->
 
