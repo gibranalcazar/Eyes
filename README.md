@@ -65,7 +65,7 @@ This is a web application for testing mouse related events; in this case two obj
 The following are some possible improvements for this project:
 
 :star: Use a character image as background an emulate it has the moving eyes\
-:star: Use changeable images with changeable eyes\
+:star: Use changeable images with changeable eyes
 
 ## :white_check_mark: Requirements ##
 
