@@ -53,7 +53,7 @@ This is a web application for testing mouse related events; in this case two obj
 
 :heavy_check_mark: Mouse movement over the browser is translated to coordinates\
 :heavy_check_mark: The overflow of the centered ball is hidden\
-:heavy_check_mark: The background color is changeable with a color input\
+:heavy_check_mark: The background color is changeable with a color input
 
 ## :boom: Run web app! ##
 
