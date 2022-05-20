@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./image.jpg" alt="Eyes" href="https://github.com/gibranalcazar" />
+  <img src="./images/image.jpg" alt="Eyes" href="https://github.com/gibranalcazar" />
 
   &#xa0;
 
