@@ -64,9 +64,8 @@ This is a web application for testing mouse related events; in this case two obj
 
 The following are some possible improvements for this project:
 
-:bus: Make a popup over each position including info like bus label, time, available seats, etc\
-:bus: Use the Mapbox Map Matching API to specify the driving route\
-:bus: Some others
+:star: Use a character image as background an emulate it has the moving eyes\
+:star: Use changeable images with changeable eyes\
 
 ## :white_check_mark: Requirements ##
 
