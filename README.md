@@ -34,8 +34,9 @@
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="https://gibranalcazar.github.io/Eyes/">Run!</a> &#xa0; | &#xa0; 
-  <a href="#rocket-Languages">Languages</a> &#xa0; | &#xa0;
+  <a href="#pencil2-roadmap">Roadmap</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
@@ -46,20 +47,26 @@
 
 ## :dart: About ##
 
-This is a web application for testing mouse related events; in this case two objects are simulating eyes and they will move according to the mouse position.
+This is a web application for testing mouse related events; in this case two objects are simulating eyes and they will move according to the mouse position. This project was developed as part of the Professional Certificate in coding: Full Stack Software Development by The Massachusetts Institute of Technology.
 
-## :sparkles: Run web app! ##
+## :sparkles: Features ##
+
+:heavy_check_mark: Mouse movement over the browser is translated to coordinates\
+:heavy_check_mark: The overflow of the centered ball is hidden\
+:heavy_check_mark: The background color is changeable with a color input\
+
+## :boom: Run web app! ##
 
 <a href="https://gibranalcazar.github.io/Eyes/" target="_blank">Link To Eyes</a>
 
 
-## :rocket: Languages ##
+## :pencil2: Roadmap ##
 
+The following are some possible improvements for this project:
 
-- JavaScript
-- HTML
-- CSS
-
+:bus: Make a popup over each position including info like bus label, time, available seats, etc\
+:bus: Use the Mapbox Map Matching API to specify the driving route\
+:bus: Some others
 
 ## :white_check_mark: Requirements ##
 
