@@ -43,10 +43,9 @@ img {
   z-index: 1;
   position: absolute;
   top: 329px;
-  left: 111px;
-  width: 98px;
+  left: 106px;
+  width: 104px;
   height: 85px;
-  background: rgb(255, 255, 255);
   display: inline-block;
   margin: 5px;
   border-radius: 50%;
@@ -58,10 +57,9 @@ img {
   z-index: 1;
   position: absolute;
   top: 320px;
-  left: 243px;
-  width: 98px;
+  left: 240px;
+  width: 104px;
   height: 85px;
-  background: rgb(255, 255, 255);
   display: inline-block;
   margin: 5px;
   border-radius: 50%;
