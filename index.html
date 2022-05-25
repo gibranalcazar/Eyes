@@ -11,14 +11,26 @@
 </head>
 <body id="bodytag">
   <input type="color" id="colorInput" value="#5e117f"> <button onclick='selectColor()'>Select Color</button>
-  <div class="eyes">
-    <div class="eye">
-      <div id="ojo" class="ball"></div>
-    </div>
-    <div class="eye">
-      <div id="ojo" class="ball"></div>
-    </div>
+  <div class="container">
+    <div class="vane-frame">
+      <div class="image">
+        <img  id="img" src="images/Vanellope.png" >
+      </div>
+      <!-- <div class="eyes"> -->
+        <div class="l-eye">
+          <div id="ojo" class="ball">
+            <img  id="img" src="images/VaneOjo1.png" >
+          </div>
+        </div>
+        <div class="r-eye">
+          <div id="ojo" class="ball">
+            <img  id="img" src="images/VaneOjo1.png" >
+          </div>
+        </div>
+      <!-- </div> -->
+
   </div>
-  <script src="./Eyes.js"></script>
+</div>
+<script src="./Eyes.js"></script>
 </body>
 </html>
