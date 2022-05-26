@@ -57,7 +57,7 @@ This is a web application for testing mouse related events; in this case two obj
 
 ## :boom: Run web app! ##
 
-<a href="https://gibranalcazar.github.io/Eyes/" target="_blank">Link To Eyes</a>
+<a href="https://gibranalcazar.github.io/Eyes/" target="_blank">Link to Demo</a>
 
 
 ## :pencil2: Roadmap ##
