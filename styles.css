@@ -43,10 +43,10 @@ img {
 .l-eye {
   z-index: 1;
   position: absolute;
-  top: 329px;
+  top: 327px;
   left: 106px;
   width: 104px;
-  height: 85px;
+  height: 89px;
   display: inline-block;
   margin: 5px;
   border-radius: 50%;
@@ -57,10 +57,10 @@ img {
 .r-eye {
   z-index: 1;
   position: absolute;
-  top: 320px;
+  top: 318px;
   left: 240px;
   width: 104px;
-  height: 85px;
+  height: 89px;
   display: inline-block;
   margin: 5px;
   border-radius: 50%;
